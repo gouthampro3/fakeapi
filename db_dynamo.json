@@ -6,12 +6,19 @@
                "other_platform_notes":null,
                "platforms":null
             },
-            "risk_rating":null,
-            "date_created":null,
-            "risk_description":null,
+            "risk_rating":"Low",
+            "date_created":"2019-09-02 08:49:43",
+            "risk_description":"Possible trojan in leap servers.",
             "requestors":[
                {
-                  "hello":"world"
+                  "name":"Goutham",
+                  "email":"g@mymail.com",
+                  "id":"G007"
+               },
+               {
+                  "name":"Prasad",
+                  "email":"p@mymail.com",
+                  "id":"P008"
                }
             ],
             "risk_fix":{
