@@ -1,0 +1,40 @@
+{
+    "refreshdate": "2020-01-02 23:00:00",
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Some job title 1",
+        "url": "http://www.example.com/news-title-1/",
+        "newsdate": "2020-01-02 18:00:00",
+        "state":"Karnataka"
+      },
+      {
+        "id": 2,
+        "title": "Some Job title 2",
+        "url": "http://www.example.com/news-title-2/",
+        "newsdate": "2020-01-02 19:00:00",
+        "state":"Karnataka"
+      },
+      {
+        "id": 3,
+        "title": "Some Job title 3",
+        "url": "http://www.example.com/news-title-2/",
+        "newsdate": "2020-01-02 20:00:00",
+        "state":"Tamilnadu"
+      },
+      {
+        "id": 4,
+        "title": "Some Job title 4",
+        "url": "http://www.example.com/news-title-3/",
+        "newsdate": "2020-01-02 21:00:00",
+        "state":"Andhra"
+      },
+      {
+        "id": 5,
+        "title": "Some Random Job title 5",
+        "url": "http://www.example.com/news-title-4/",
+        "newsdate": "2020-01-02 22:00:00",
+        "state":"Andhra"
+      }
+    ]
+}
